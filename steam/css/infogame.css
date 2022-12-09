@@ -1,0 +1,68 @@
+.header{ 
+    background-color:#181818;
+    color: rgb(255, 255, 255);
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+
+html, body {
+    background: #1a1f25;
+    font-family: 'Roboto', sans-serif;
+  }
+
+.footer{
+    background-color: #181818;
+    position: relative;
+    top: 185px
+
+}
+
+
+.join_steam{
+    border-radius: 1px;
+    background-color: initial;
+    color: white;
+}
+
+.footer-flex{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;;
+    color: white;
+   
+}
+
+.foot-text{
+    position: relative;
+    bottom: -40px;
+}
+.line{
+    height: 2px;
+    width: 1903px;
+    position: relative;
+    background-color: rgb(129, 129, 129);
+    margin-top: 15px;
+
+}
+
+.flex-img{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.footer_flex{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;;
+    color: white;
+    margin-top: 13px;
+}
+
+.info_game{
+    color: white;
+}
